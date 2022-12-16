@@ -24,12 +24,17 @@ body {
 }
 
 h1 {
-  padding-bottom: 50px;
+  padding-bottom: 35px;
+  line-height: 45px;
 }
 
 #password {
   text-transform: lowercase;
+  padding-top: 35px;
 }
 .gif-image {
-  padding-top: 50px;
+  padding-top: 60px;
+}
+
+.gif-image img {
 }

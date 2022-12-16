@@ -27,3 +27,7 @@ console.log(passwordGenerate);
 
 // Inserisco la password generata nel documento html
 document.getElementById("password").innerHTML = passwordGenerate;
+
+// Inserisco il nome nel messaggio di congratuazioni nel documento html
+document.getElementById("congrNAme").innerHTML =
+  "Congratulation " + firstName + "!";
