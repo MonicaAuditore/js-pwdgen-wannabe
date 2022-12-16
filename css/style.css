@@ -6,9 +6,30 @@
 }
 
 body {
-  font-family: ;
+  font-family: "Open Sans", sans-serif;
 }
 
 /* VARIABILI */
 
 /* UTILITY */
+
+.container {
+  width: 100vw;
+  margin: 0 auto;
+}
+
+.passwGenerator {
+  padding-top: 200px;
+  text-align: center;
+}
+
+h1 {
+  padding-bottom: 50px;
+}
+
+#password {
+  text-transform: lowercase;
+}
+.gif-image {
+  padding-top: 50px;
+}
