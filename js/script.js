@@ -30,4 +30,4 @@ document.getElementById("password").innerHTML = passwordGenerate;
 
 // Inserisco il nome nel messaggio di congratuazioni nel documento html
 document.getElementById("congrNAme").innerHTML =
-  "Congratulation " + firstName + "!";
+  "Congratulations " + firstName + "!";
